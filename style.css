@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    margin: 50px 0px 100px 50px;
+    margin: auto;
     width: 90%;  
     background-color: rgb(232, 243, 243);
 }
@@ -24,4 +24,18 @@ h3{
 }
 p, h3{
     margin-left: 50px;
+}
+.links{
+    text-decoration: none;
+    padding: 0 3% 0 3%;
+    text-align: center;
+    margin-top: 3px;
+    height: 20px;
+}
+.links:hover{
+    text-decoration: underline;
+}
+.dadospessoais{
+    text-align: center;
+    margin-top: 3px;
 }
