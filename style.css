@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    margin: 50px 0px 100px 50px;
+    width: 90%;  
+    background-color: rgb(232, 243, 243);
+}
+h1{
+    background-color: rgb(130, 193, 230);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 8px;
+    border-bottom: 3px solid gray;
+    font-size: 40px;
+}
+h2{
+    background-color: rgb(194, 194, 244);
+    color: blue;
+    text-align: center;
+    padding: 3px;
+    border-bottom: 2px solid;
+}
+h3{
+    text-transform: uppercase;
+}
+p, h3{
+    margin-left: 50px;
+}
